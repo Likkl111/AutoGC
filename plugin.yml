@@ -2,5 +2,5 @@ name: AutoGC
 version: 1.0.0
 api: 5.0.0
 main: AutoGC\Main
-author: Likkl_1
+author: ТвойНик
 description: Автоматическая очистка каждые 60 секунд
